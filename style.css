@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    caret-color: transparent;
 }
 
 :root {
@@ -47,7 +48,7 @@ h1 {
     align-items: center;
     justify-content: center;
     color: var(--main-color);
-    font-size: 120px;
+    font-size: 100px;
     border-right: 2px solid;
     border-bottom: 2px solid;
 }
